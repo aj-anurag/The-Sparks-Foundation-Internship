@@ -1,2 +1,5 @@
-# The-Sparks-Foundation-Internship
-This repository contains the tasks that I completed while working as an Data Science and Business Analytics  intern for The Sparks Foundation, Singapore
+This repository contains the tasks that I completed while working as an intern for The Sparks Foundation.
+
+Internship Category - Data Science and Business Analytics
+Internship Duration - 1 Month ( September-2023 )
+Internship Type - Work from Home.
